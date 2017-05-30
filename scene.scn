@@ -1,0 +1,37 @@
+Image: W, H
+640 480
+Resolution: W, H
+640 480
+Camera: near, far, fov, lookat, vup, cop
+1 200
+40
+0 0 -1
+0 1 0
+4 9 30
+Object Count
+2
+Object specs(0:Sphere, 1:Cylinder, 2:Cone  Color(0,0,0)  transp reflect  Dimensions location)
+0
+0 0 255
+0 0
+2 :rad
+1 3 -2 :center
+
+1
+0 255 0
+1 1
+3 :rad
+6 :height
+4 2 -3 : bcenter
+
+Light src count:location
+2
+5 7 8
+-2 3 -4
+
+Anti-aliasing(on/off)
+0
+
+Ambient component(on/off)
+0
+
